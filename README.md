@@ -1,5 +1,8 @@
 # Snake Game
 
+Prepared by:
+Burak Colak
+
 A classic Snake game playable in the Windows terminal, written in C++. Built using simple console manipulation (no external libraries).
 
 ## 🎮 Features
@@ -14,11 +17,11 @@ A classic Snake game playable in the Windows terminal, written in C++. Built usi
 Below is a sample game screen:
 
 ##########################################
-#                           *            #
-#                                        #
-#     ooooO                              #
-#                                        #
-#                                        #
+##                           *            ##
+##                                        ##
+##     ooooO                              ##
+##                                        ##
+##                                        ##
 ##########################################
 Score: 4
 
@@ -39,6 +42,3 @@ The game uses:
 
 - Windows OS
 - A C++ compiler like `g++` or Visual Studio
-
-Prepared by:
-Burak Colak
