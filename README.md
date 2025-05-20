@@ -13,19 +13,6 @@ A classic Snake game playable in the Windows terminal, written in C++. Built usi
 - ASCII graphics rendered directly in terminal
 - Lightweight and fast (runs on any Windows terminal)
 
-## 📸 Preview
-Below is a sample game screen:
-
-##########################################
-##                           *            ##
-##                                        ##
-##     ooooO                              ##
-##                                        ##
-##                                        ##
-##########################################
-Score: 4
-
-
 ## 🛠️ How It Works
 
 The game uses:
